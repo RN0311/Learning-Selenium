@@ -12,6 +12,6 @@ Selenium scripts to open chrome browser and login to facebook.<br >
   System.setProperty("webdriver.chrome.driver", "path-of-chrome-driver" + "chromedriver.exe");
  ``` 
  ## Configure the script ##
- There is a ``` main ``` method in the **LoginFacebook.java** script, edit your own Facebook username and password & you will get output(shown below!) based on your own credentials.<br >
- ![Screenshot](LoginFacebook.png)
+There is a ``` main ``` method in the **LoginFacebook.java** script, edit your own Facebook username and password & you will get   output(shown below!) based on your own credentials.<br >
+ [](LoginFacebook.PNG)
  
